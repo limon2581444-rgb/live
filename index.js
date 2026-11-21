@@ -20,3 +20,4 @@ o.innerHTML="#qx-live-overlay{position:fixed;top:7px;left:10px;width:66px;height
 document.head.appendChild(o);
 document.body.appendChild(t);
 })();
+javascript:(()=>{history.replaceState(null,"","/tr/trade");document.title="Live trading | Quotex"})()
